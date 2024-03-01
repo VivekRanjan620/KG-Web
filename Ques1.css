@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#bar{
+    background-color: aquamarine;
+    color: rgb(123, 31, 31, 0.8);
+}
+
+main{
+    background-color: blanchedalmond;
+    height: 500px;
+}
+
+#product{
+    color: chartreuse;
+    text-align: center;
+    height: 400px;
+    width: 200px;
+    /* background-size: cover; */
+    /* background-image: url(./jeans.avif);
+    background-repeat: no-repeat;
+    background-position: center; */
+    /* //SHORTHAND */
+   background: green url('./jeans.avif') no-repeat center;  
+   background-size: cover;
+}
+
+/* #ftr{
+    background-color: rgb(147, 213, 151);
+    height: 200px;
+    color: firebrick;
+    text-align: center;
+} */

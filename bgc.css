@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#first{
+    color: black;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+}
+
+#second{
+    color: black;
+    background-color: green;
+    height: 350px;
+    width: 350px;
+    background-image: url(./photo1G.avif);
+    /* background-size: contain; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: left; */
+}
+
+button{
+    color: black;
+    background-color: blue;
+    height: 30px;
+}

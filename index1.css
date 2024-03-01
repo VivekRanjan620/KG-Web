@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+
+#heading{
+    color: blue;
+}
+
+#heading2{
+    color: green;
+}
+#div_2{
+    color: rgb(165, 42, 104);
+}
+
+p{
+    color: darkgreen;
+}
+
+.special_heading{
+    color: maroon;
+}
+
+#first,#second{
+    color: blue;
+}

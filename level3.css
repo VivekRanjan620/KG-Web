@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+}
+#box1{
+    background-color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+#box2{
+    background-color: crimson;
+    text-align: left;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+}
+
+#box3{
+    background-color: darkgreen;
+    text-align: right;
+    text-decoration: wavy;
+    text-decoration-style: double;
+}
